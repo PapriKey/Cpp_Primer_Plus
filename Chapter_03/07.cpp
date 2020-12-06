@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Please rnter the average fuel consumption (liters per 100kilometers): ";
+	cout << "Please enter the average fuel consumption (liters per 100 kilometers): ";
 	double a;
 	cin >>a;
 	a = 62.14 / (a / 3.875);
